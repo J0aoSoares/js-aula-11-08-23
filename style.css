@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+label{
+    display: flex;
+}
+.fieldset{
+    padding: 10px;
+}
+button{
+    padding: 5px;
+}
